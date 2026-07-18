@@ -83,6 +83,7 @@ Companion list to the survey [Explainability in Practice: A Survey of Explainabl
 ## Rationales and Natural Language Explanations
 
 - **Rationalizing Neural Predictions** — Lei et al., EMNLP 2016. [[paper](https://arxiv.org/abs/1606.04155)]
+- **e-SNLI: Natural Language Inference with Natural Language Explanations** — Camburu et al., NeurIPS 2018. [[paper](https://arxiv.org/abs/1812.01193)]
 
 ## Faithfulness and Evaluation
 
