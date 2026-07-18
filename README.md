@@ -75,6 +75,7 @@ Companion list to the survey [Explainability in Practice: A Survey of Explainabl
 - **Information-Theoretic Probing for Linguistic Structure** — Pimentel et al., ACL 2020. [[paper](https://arxiv.org/abs/2004.03061)]
 - **Probing Classifiers: Promises, Shortcomings, and Advances** — Belinkov, Computational Linguistics 2022. [[paper](https://arxiv.org/abs/2102.12452)]
 - **Language Models as Knowledge Bases?** — Petroni et al., EMNLP 2019. [[paper](https://arxiv.org/abs/1909.01066)]
+- **How Can We Know What Language Models Know?** — Jiang et al., TACL 2020. [[paper](https://arxiv.org/abs/1911.12543)]
 
 ## Counterfactuals and Behavioral Testing
 
