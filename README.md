@@ -101,6 +101,8 @@ Companion list to the survey [Explainability in Practice: A Survey of Explainabl
 
 ## Reasoning and Chain-of-Thought Faithfulness
 
+- **Chain-of-Thought Prompting Elicits Reasoning in Large Language Models** — Wei et al., NeurIPS 2022. [[paper](https://arxiv.org/abs/2201.11903)]
+
 ## Mechanistic Interpretability
 
 ## Datasets and Benchmarks
