@@ -67,6 +67,7 @@ Companion list to the survey [Explainability in Practice: A Survey of Explainabl
 - **What do you learn from context? Probing for sentence structure in contextualized word representations** — Tenney et al., ICLR 2019. [[paper](https://arxiv.org/abs/1905.06316)]
 - **What Does BERT Learn about the Structure of Language?** — Jawahar et al., ACL 2019. [[paper](https://aclanthology.org/P19-1356/)]
 - **Information-Theoretic Probing with Minimum Description Length** — Voita & Titov, EMNLP 2020. [[paper](https://arxiv.org/abs/2003.12298)]
+- **Information-Theoretic Probing for Linguistic Structure** — Pimentel et al., ACL 2020. [[paper](https://arxiv.org/abs/2004.03061)]
 
 ## Counterfactuals and Behavioral Testing
 
