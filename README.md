@@ -92,6 +92,8 @@ Companion list to the survey [Explainability in Practice: A Survey of Explainabl
 
 ## Faithfulness and Evaluation
 
+- **Towards Faithfully Interpretable NLP Systems: How Should We Define and Evaluate Faithfulness?** — Jacovi & Goldberg, ACL 2020. [[paper](https://arxiv.org/abs/2004.03685)]
+
 ## Reasoning and Chain-of-Thought Faithfulness
 
 ## Mechanistic Interpretability
