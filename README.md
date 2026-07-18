@@ -138,6 +138,7 @@ Companion list to the survey [Explainability in Practice: A Survey of Explainabl
 - [shap](https://github.com/shap/shap) — game-theoretic feature attribution for any ML model
 - [lime](https://github.com/marcotcr/lime) — local surrogate explanations for classifiers
 - [BertViz](https://github.com/jessevig/bertviz) — interactive attention visualization for transformer models
+- [Ecco](https://github.com/jalammar/ecco) — explorable explanations for transformer language models
 
 ## Contributing
 
