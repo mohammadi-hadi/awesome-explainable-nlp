@@ -25,6 +25,7 @@ Companion list to the survey [Explainability in Practice: A Survey of Explainabl
 ## Surveys and Position Papers
 
 - **The Mythos of Model Interpretability** — Lipton, 2016. [[paper](https://arxiv.org/abs/1606.03490)]
+- **Towards a Rigorous Science of Interpretable Machine Learning** — Doshi-Velez & Kim, 2017. [[paper](https://arxiv.org/abs/1702.08608)]
 
 ## Feature Attribution
 
