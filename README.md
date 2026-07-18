@@ -114,6 +114,7 @@ Companion list to the survey [Explainability in Practice: A Survey of Explainabl
 ## Mechanistic Interpretability
 
 - **A Mathematical Framework for Transformer Circuits** — Elhage et al., 2021. [[paper](https://transformer-circuits.pub/2021/framework/index.html)]
+- **In-context Learning and Induction Heads** — Olsson et al., 2022. [[paper](https://arxiv.org/abs/2209.11895)]
 
 ## Datasets and Benchmarks
 
