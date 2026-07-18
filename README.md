@@ -121,6 +121,7 @@ Companion list to the survey [Explainability in Practice: A Survey of Explainabl
 - **Sparse Autoencoders Find Highly Interpretable Features in Language Models** — Cunningham et al., ICLR 2024. [[paper](https://arxiv.org/abs/2309.08600)]
 - **Interpretability in the Wild: a Circuit for Indirect Object Identification in GPT-2 small** — Wang et al., ICLR 2023. [[paper](https://arxiv.org/abs/2211.00593)]
 - **Locating and Editing Factual Associations in GPT (ROME)** — Meng et al., NeurIPS 2022. [[paper](https://arxiv.org/abs/2202.05262)]
+- **Transformer Feed-Forward Layers Are Key-Value Memories** — Geva et al., EMNLP 2021. [[paper](https://arxiv.org/abs/2012.14913)]
 
 ## Datasets and Benchmarks
 
