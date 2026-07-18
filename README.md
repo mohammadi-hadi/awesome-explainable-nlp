@@ -61,6 +61,8 @@ Companion list to the survey [Explainability in Practice: A Survey of Explainabl
 
 ## Probing and Representations
 
+- **A Structural Probe for Finding Syntax in Word Representations** — Hewitt & Manning, NAACL 2019. [[paper](https://aclanthology.org/N19-1419/)]
+
 ## Counterfactuals and Behavioral Testing
 
 ## Rationales and Natural Language Explanations
