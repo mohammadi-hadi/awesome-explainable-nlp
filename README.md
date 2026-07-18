@@ -85,6 +85,7 @@ Companion list to the survey [Explainability in Practice: A Survey of Explainabl
 - **Rationalizing Neural Predictions** — Lei et al., EMNLP 2016. [[paper](https://arxiv.org/abs/1606.04155)]
 - **e-SNLI: Natural Language Inference with Natural Language Explanations** — Camburu et al., NeurIPS 2018. [[paper](https://arxiv.org/abs/1812.01193)]
 - **Explain Yourself! Leveraging Language Models for Commonsense Reasoning** — Rajani et al., ACL 2019. [[paper](https://arxiv.org/abs/1906.02361)]
+- **Learning to Faithfully Rationalize by Construction** — Jain et al., ACL 2020. [[paper](https://arxiv.org/abs/2005.00115)]
 
 ## Faithfulness and Evaluation
 
