@@ -73,6 +73,8 @@ Companion list to the survey [Explainability in Practice: A Survey of Explainabl
 
 ## Counterfactuals and Behavioral Testing
 
+- **Counterfactual Explanations without Opening the Black Box: Automated Decisions and the GDPR** — Wachter et al., Harvard Journal of Law & Technology 2017. [[paper](https://arxiv.org/abs/1711.00399)]
+
 ## Rationales and Natural Language Explanations
 
 ## Faithfulness and Evaluation
