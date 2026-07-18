@@ -51,6 +51,8 @@ Companion list to the survey [Explainability in Practice: A Survey of Explainabl
 
 ## Attention Analysis
 
+- **Attention is not Explanation** — Jain & Wallace, NAACL 2019. [[paper](https://arxiv.org/abs/1902.10186)]
+
 ## Probing and Representations
 
 ## Counterfactuals and Behavioral Testing
