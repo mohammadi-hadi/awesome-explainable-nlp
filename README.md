@@ -37,6 +37,8 @@ Companion list to the survey [Explainability in Practice: A Survey of Explainabl
 
 ## Feature Attribution
 
+- **"Why Should I Trust You?": Explaining the Predictions of Any Classifier (LIME)** — Ribeiro et al., KDD 2016. [[paper](https://arxiv.org/abs/1602.04938)]
+
 ## Attention Analysis
 
 ## Probing and Representations
