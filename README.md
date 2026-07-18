@@ -37,6 +37,7 @@ Companion list to the survey [Explainability in Practice: A Survey of Explainabl
 - **Rethinking Interpretability in the Era of Large Language Models** — Singh et al., 2024. [[paper](https://arxiv.org/abs/2402.01761)]
 - **A Primer in BERTology: What We Know About How BERT Works** — Rogers et al., TACL 2020. [[paper](https://arxiv.org/abs/2002.12327)]
 - **Interpretable machine learning: definitions, methods, and applications** — Murdoch et al., PNAS 2019. [[paper](https://arxiv.org/abs/1901.04592)]
+- **From Anecdotal Evidence to Quantitative Evaluation Methods: A Systematic Review on Evaluating Explainable AI** — Nauta et al., ACM Computing Surveys 2023. [[paper](https://arxiv.org/abs/2201.08164)]
 
 ## Feature Attribution
 
