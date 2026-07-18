@@ -44,6 +44,7 @@ Companion list to the survey [Explainability in Practice: A Survey of Explainabl
 - **Anchors: High-Precision Model-Agnostic Explanations** — Ribeiro et al., AAAI 2018.
 - **Visualizing and Understanding Neural Models in NLP** — Li et al., NAACL 2016. [[paper](https://arxiv.org/abs/1506.01066)]
 - **Understanding Neural Networks through Representation Erasure** — Li et al., 2016. [[paper](https://arxiv.org/abs/1612.08220)]
+- **Explaining Recurrent Neural Network Predictions in Sentiment Analysis** — Arras et al., WASSA 2017. [[paper](https://arxiv.org/abs/1706.07206)]
 
 ## Attention Analysis
 
