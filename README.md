@@ -57,6 +57,7 @@ Companion list to the survey [Explainability in Practice: A Survey of Explainabl
 - **What Does BERT Look At? An Analysis of BERT's Attention** — Clark et al., BlackboxNLP 2019. [[paper](https://arxiv.org/abs/1906.04341)]
 - **Analyzing Multi-Head Self-Attention: Specialized Heads Do the Heavy Lifting, the Rest Can Be Pruned** — Voita et al., ACL 2019. [[paper](https://arxiv.org/abs/1905.09418)]
 - **Quantifying Attention Flow in Transformers** — Abnar & Zuidema, ACL 2020. [[paper](https://arxiv.org/abs/2005.00928)]
+- **A Multiscale Visualization of Attention in the Transformer Model** — Vig, ACL 2019 demo. [[paper](https://arxiv.org/abs/1906.05714)]
 
 ## Probing and Representations
 
