@@ -141,6 +141,8 @@ Companion list to the survey [Explainability in Practice: A Survey of Explainabl
 
 ## Training Data Attribution
 
+- **Understanding Black-box Predictions via Influence Functions** — Koh & Liang, ICML 2017. [[paper](https://arxiv.org/abs/1703.04730)]
+
 ## Concept-Based Explanations
 
 ## Datasets and Benchmarks
