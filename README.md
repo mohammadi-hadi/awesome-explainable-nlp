@@ -135,6 +135,7 @@ Companion list to the survey [Explainability in Practice: A Survey of Explainabl
 ## Tools and Libraries
 
 - [Captum](https://github.com/pytorch/captum) — model interpretability library for PyTorch (Integrated Gradients, DeepLIFT, and many more)
+- [shap](https://github.com/shap/shap) — game-theoretic feature attribution for any ML model
 
 ## Contributing
 
