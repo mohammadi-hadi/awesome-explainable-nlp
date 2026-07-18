@@ -184,6 +184,7 @@ Companion list to the survey [Explainability in Practice: A Survey of Explainabl
 - [SAELens](https://github.com/jbloomAus/SAELens) — training and analysis of sparse autoencoders for language models
 - [nnsight](https://github.com/ndif-team/nnsight) — interpret and manipulate the internals of deep models
 - [Alibi](https://github.com/SeldonIO/alibi) — production-oriented explainers (anchors, contrastive, counterfactual)
+- [ELI5](https://github.com/TeamHG-Memex/eli5) — classic inspection library for scikit-learn era NLP models
 
 ## Contributing
 
