@@ -134,6 +134,8 @@ Companion list to the survey [Explainability in Practice: A Survey of Explainabl
 
 ## Tools and Libraries
 
+- [Captum](https://github.com/pytorch/captum) — model interpretability library for PyTorch (Integrated Gradients, DeepLIFT, and many more)
+
 ## Contributing
 
 Additions are welcome — one resource per pull request, with a link and a one-line description of why it belongs here.
