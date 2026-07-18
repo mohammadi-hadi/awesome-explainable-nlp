@@ -147,6 +147,7 @@ Companion list to the survey [Explainability in Practice: A Survey of Explainabl
 - **Refusal in Language Models Is Mediated by a Single Direction** — Arditi et al., NeurIPS 2024. [[paper](https://arxiv.org/abs/2406.11717)]
 - **Language models can explain neurons in language models** — Bills et al., OpenAI 2023. [[paper](https://openaipublic.blob.core.windows.net/neuron-explainer/paper/index.html)]
 - **Explaining black box text modules in natural language with language models** — Singh et al., 2023. [[paper](https://arxiv.org/abs/2305.09863)]
+- **On the Biology of a Large Language Model** — Lindsey et al., 2025. [[paper](https://transformer-circuits.pub/2025/attribution-graphs/biology.html)]
 
 ## Training Data Attribution
 
