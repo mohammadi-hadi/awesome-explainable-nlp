@@ -140,6 +140,7 @@ Companion list to the survey [Explainability in Practice: A Survey of Explainabl
 - **Inference-Time Intervention: Eliciting Truthful Answers from a Language Model** — Li et al., NeurIPS 2023. [[paper](https://arxiv.org/abs/2306.03341)]
 - **Progress Measures for Grokking via Mechanistic Interpretability** — Nanda et al., ICLR 2023. [[paper](https://arxiv.org/abs/2301.05217)]
 - **Emergent World Representations: Exploring a Sequence Model Trained on a Synthetic Task** — Li et al., ICLR 2023. [[paper](https://arxiv.org/abs/2210.13382)]
+- **Language Models Represent Space and Time** — Gurnee & Tegmark, ICLR 2024. [[paper](https://arxiv.org/abs/2310.02207)]
 
 ## Training Data Attribution
 
