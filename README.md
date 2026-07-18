@@ -47,6 +47,7 @@ Companion list to the survey [Explainability in Practice: A Survey of Explainabl
 - **Explaining Recurrent Neural Network Predictions in Sentiment Analysis** — Arras et al., WASSA 2017. [[paper](https://arxiv.org/abs/1706.07206)]
 - **Beyond Word Importance: Contextual Decomposition to Extract Interactions from LSTMs** — Murdoch et al., ICLR 2018. [[paper](https://arxiv.org/abs/1801.05453)]
 - **Sanity Checks for Saliency Maps** — Adebayo et al., NeurIPS 2018. [[paper](https://arxiv.org/abs/1810.03292)]
+- **The (Un)reliability of Saliency Methods** — Kindermans et al., 2017. [[paper](https://arxiv.org/abs/1711.00867)]
 
 ## Attention Analysis
 
