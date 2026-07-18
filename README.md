@@ -142,6 +142,7 @@ Companion list to the survey [Explainability in Practice: A Survey of Explainabl
 - **Emergent World Representations: Exploring a Sequence Model Trained on a Synthetic Task** — Li et al., ICLR 2023. [[paper](https://arxiv.org/abs/2210.13382)]
 - **Language Models Represent Space and Time** — Gurnee & Tegmark, ICLR 2024. [[paper](https://arxiv.org/abs/2310.02207)]
 - **Activation Addition: Steering Language Models Without Optimization** — Turner et al., 2023. [[paper](https://arxiv.org/abs/2308.10248)]
+- **Towards Automated Circuit Discovery for Mechanistic Interpretability** — Conmy et al., NeurIPS 2023. [[paper](https://arxiv.org/abs/2304.14997)]
 
 ## Training Data Attribution
 
