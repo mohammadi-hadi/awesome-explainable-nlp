@@ -128,6 +128,8 @@ Companion list to the survey [Explainability in Practice: A Survey of Explainabl
 
 ## Datasets and Benchmarks
 
+- **ERASER: A Benchmark to Evaluate Rationalized NLP Models** — DeYoung et al., ACL 2020. [[paper](https://arxiv.org/abs/1911.03429)]
+
 ## Tools and Libraries
 
 ## Contributing
