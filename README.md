@@ -97,6 +97,7 @@ Companion list to the survey [Explainability in Practice: A Survey of Explainabl
 - **Evaluating Explainable AI: Which Algorithmic Explanations Help Users Predict Model Behavior?** — Hase & Bansal, ACL 2020. [[paper](https://arxiv.org/abs/2005.01831)]
 - **A Benchmark for Interpretability Methods in Deep Neural Networks (ROAR)** — Hooker et al., NeurIPS 2019. [[paper](https://arxiv.org/abs/1806.10758)]
 - **A Diagnostic Study of Explainability Techniques for Text Classification** — Atanasova et al., EMNLP 2020. [[paper](https://arxiv.org/abs/2009.13295)]
+- **Faithfulness Tests for Natural Language Explanations** — Atanasova et al., ACL 2023. [[paper](https://arxiv.org/abs/2305.18029)]
 
 ## Reasoning and Chain-of-Thought Faithfulness
 
