@@ -144,6 +144,7 @@ Companion list to the survey [Explainability in Practice: A Survey of Explainabl
 - **Activation Addition: Steering Language Models Without Optimization** — Turner et al., 2023. [[paper](https://arxiv.org/abs/2308.10248)]
 - **Towards Automated Circuit Discovery for Mechanistic Interpretability** — Conmy et al., NeurIPS 2023. [[paper](https://arxiv.org/abs/2304.14997)]
 - **Gemma Scope: Open Sparse Autoencoders Everywhere All At Once on Gemma 2** — Lieberum et al., 2024. [[paper](https://arxiv.org/abs/2408.05147)]
+- **Refusal in Language Models Is Mediated by a Single Direction** — Arditi et al., NeurIPS 2024. [[paper](https://arxiv.org/abs/2406.11717)]
 
 ## Training Data Attribution
 
