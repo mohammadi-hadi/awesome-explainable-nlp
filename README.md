@@ -145,6 +145,7 @@ Companion list to the survey [Explainability in Practice: A Survey of Explainabl
 - **Estimating Training Data Influence by Tracing Gradient Descent (TracIn)** — Pruthi et al., NeurIPS 2020. [[paper](https://arxiv.org/abs/2002.08484)]
 - **Studying Large Language Model Generalization with Influence Functions** — Grosse et al., 2023. [[paper](https://arxiv.org/abs/2308.03296)]
 - **Data Shapley: Equitable Valuation of Data for Machine Learning** — Ghorbani & Zou, ICML 2019. [[paper](https://arxiv.org/abs/1904.02868)]
+- **Datamodels: Predicting Predictions from Training Data** — Ilyas et al., ICML 2022. [[paper](https://arxiv.org/abs/2202.00622)]
 
 ## Concept-Based Explanations
 
