@@ -78,6 +78,7 @@ Companion list to the survey [Explainability in Practice: A Survey of Explainabl
 - **Polyjuice: Generating Counterfactuals for Explaining, Evaluating, and Improving Models** — Wu et al., ACL 2021. [[paper](https://arxiv.org/abs/2101.00288)]
 - **Explaining NLP Models via Minimal Contrastive Editing (MiCE)** — Ross et al., Findings of ACL 2021. [[paper](https://arxiv.org/abs/2012.13985)]
 - **Beyond Accuracy: Behavioral Testing of NLP Models with CheckList** — Ribeiro et al., ACL 2020. [[paper](https://arxiv.org/abs/2005.04118)]
+- **Contrastive Explanations for Model Interpretability** — Jacovi et al., EMNLP 2021. [[paper](https://arxiv.org/abs/2103.01378)]
 
 ## Rationales and Natural Language Explanations
 
