@@ -98,6 +98,7 @@ Companion list to the survey [Explainability in Practice: A Survey of Explainabl
 - **Measuring Association Between Labels and Free-Text Rationales** — Wiegreffe et al., EMNLP 2021. [[paper](https://arxiv.org/abs/2010.12762)]
 - **The Unreliability of Explanations in Few-shot Prompting for Textual Reasoning** — Ye & Durrett, NeurIPS 2022. [[paper](https://arxiv.org/abs/2205.03401)]
 - **Using "Annotator Rationales" to Improve Machine Learning for Text Categorization** — Zaidan et al., NAACL 2007. [[paper](https://aclanthology.org/N07-1033/)]
+- **Reframing Human-AI Collaboration for Generating Free-Text Explanations** — Wiegreffe et al., NAACL 2022. [[paper](https://arxiv.org/abs/2112.08674)]
 
 ## Faithfulness and Evaluation
 
