@@ -40,6 +40,7 @@ Companion list to the survey [Explainability in Practice: A Survey of Explainabl
 - **"Why Should I Trust You?": Explaining the Predictions of Any Classifier (LIME)** — Ribeiro et al., KDD 2016. [[paper](https://arxiv.org/abs/1602.04938)]
 - **A Unified Approach to Interpreting Model Predictions (SHAP)** — Lundberg & Lee, NeurIPS 2017. [[paper](https://arxiv.org/abs/1705.07874)]
 - **Axiomatic Attribution for Deep Networks (Integrated Gradients)** — Sundararajan et al., ICML 2017. [[paper](https://arxiv.org/abs/1703.01365)]
+- **Learning Important Features Through Propagating Activation Differences (DeepLIFT)** — Shrikumar et al., ICML 2017. [[paper](https://arxiv.org/abs/1704.02685)]
 
 ## Attention Analysis
 
