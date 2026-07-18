@@ -109,6 +109,7 @@ Companion list to the survey [Explainability in Practice: A Survey of Explainabl
 - **Question Decomposition Improves the Faithfulness of Model-Generated Reasoning** — Radhakrishnan et al., 2023. [[paper](https://arxiv.org/abs/2307.11768)]
 - **Faithful Chain-of-Thought Reasoning** — Lyu et al., IJCNLP-AACL 2023. [[paper](https://arxiv.org/abs/2301.13379)]
 - **Tree of Thoughts: Deliberate Problem Solving with Large Language Models** — Yao et al., NeurIPS 2023. [[paper](https://arxiv.org/abs/2305.10601)]
+- **Large Language Models Cannot Self-Correct Reasoning Yet** — Huang et al., ICLR 2024. [[paper](https://arxiv.org/abs/2310.01798)]
 
 ## Mechanistic Interpretability
 
