@@ -138,6 +138,7 @@ Companion list to the survey [Explainability in Practice: A Survey of Explainabl
 - **Eliciting Latent Predictions from Transformers with the Tuned Lens** — Belrose et al., 2023. [[paper](https://arxiv.org/abs/2303.08112)]
 - **Representation Engineering: A Top-Down Approach to AI Transparency** — Zou et al., 2023. [[paper](https://arxiv.org/abs/2310.01405)]
 - **Inference-Time Intervention: Eliciting Truthful Answers from a Language Model** — Li et al., NeurIPS 2023. [[paper](https://arxiv.org/abs/2306.03341)]
+- **Progress Measures for Grokking via Mechanistic Interpretability** — Nanda et al., ICLR 2023. [[paper](https://arxiv.org/abs/2301.05217)]
 
 ## Training Data Attribution
 
