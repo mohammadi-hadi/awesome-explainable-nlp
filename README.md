@@ -153,6 +153,7 @@ Companion list to the survey [Explainability in Practice: A Survey of Explainabl
 - **Interpretability Beyond Feature Attribution: Quantitative Testing with Concept Activation Vectors (TCAV)** — Kim et al., ICML 2018. [[paper](https://arxiv.org/abs/1711.11279)]
 - **Towards Automatic Concept-based Explanations** — Ghorbani et al., NeurIPS 2019. [[paper](https://arxiv.org/abs/1902.03129)]
 - **Concept Bottleneck Models** — Koh et al., ICML 2020. [[paper](https://arxiv.org/abs/2007.04612)]
+- **Compositional Explanations of Neurons** — Mu & Andreas, NeurIPS 2020. [[paper](https://arxiv.org/abs/2006.14032)]
 
 ## Datasets and Benchmarks
 
