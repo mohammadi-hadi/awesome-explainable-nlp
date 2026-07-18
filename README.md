@@ -68,6 +68,7 @@ Companion list to the survey [Explainability in Practice: A Survey of Explainabl
 - **What Does BERT Learn about the Structure of Language?** — Jawahar et al., ACL 2019. [[paper](https://aclanthology.org/P19-1356/)]
 - **Information-Theoretic Probing with Minimum Description Length** — Voita & Titov, EMNLP 2020. [[paper](https://arxiv.org/abs/2003.12298)]
 - **Information-Theoretic Probing for Linguistic Structure** — Pimentel et al., ACL 2020. [[paper](https://arxiv.org/abs/2004.03061)]
+- **Probing Classifiers: Promises, Shortcomings, and Advances** — Belinkov, Computational Linguistics 2022. [[paper](https://arxiv.org/abs/2102.12452)]
 
 ## Counterfactuals and Behavioral Testing
 
