@@ -32,6 +32,7 @@ Companion list to the survey [Explainability in Practice: A Survey of Explainabl
 - **Post-hoc Interpretability for Neural NLP: A Survey** — Madsen et al., ACM Computing Surveys 2022. [[paper](https://arxiv.org/abs/2108.04840)]
 - **Teach Me to Explain: A Review of Datasets for Explainable NLP** — Wiegreffe & Marasović, NeurIPS Datasets and Benchmarks 2021. [[paper](https://arxiv.org/abs/2102.12060)]
 - **Explainability for Large Language Models: A Survey** — Zhao et al., ACM TIST 2024. [[paper](https://arxiv.org/abs/2309.01029)]
+- **Rethinking Interpretability in the Era of Large Language Models** — Singh et al., 2024. [[paper](https://arxiv.org/abs/2402.01761)]
 
 ## Feature Attribution
 
