@@ -76,6 +76,7 @@ Companion list to the survey [Explainability in Practice: A Survey of Explainabl
 - **Counterfactual Explanations without Opening the Black Box: Automated Decisions and the GDPR** — Wachter et al., Harvard Journal of Law & Technology 2017. [[paper](https://arxiv.org/abs/1711.00399)]
 - **Learning the Difference that Makes a Difference with Counterfactually-Augmented Data** — Kaushik et al., ICLR 2020. [[paper](https://arxiv.org/abs/1909.12434)]
 - **Polyjuice: Generating Counterfactuals for Explaining, Evaluating, and Improving Models** — Wu et al., ACL 2021. [[paper](https://arxiv.org/abs/2101.00288)]
+- **Explaining NLP Models via Minimal Contrastive Editing (MiCE)** — Ross et al., Findings of ACL 2021. [[paper](https://arxiv.org/abs/2012.13985)]
 
 ## Rationales and Natural Language Explanations
 
