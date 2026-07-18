@@ -86,6 +86,7 @@ Companion list to the survey [Explainability in Practice: A Survey of Explainabl
 - **Beyond Accuracy: Behavioral Testing of NLP Models with CheckList** — Ribeiro et al., ACL 2020. [[paper](https://arxiv.org/abs/2005.04118)]
 - **Contrastive Explanations for Model Interpretability** — Jacovi et al., EMNLP 2021. [[paper](https://arxiv.org/abs/2103.01378)]
 - **Right for the Wrong Reasons: Diagnosing Syntactic Heuristics in Natural Language Inference (HANS)** — McCoy et al., ACL 2019. [[paper](https://arxiv.org/abs/1902.01007)]
+- **Annotation Artifacts in Natural Language Inference Data** — Gururangan et al., NAACL 2018. [[paper](https://arxiv.org/abs/1803.02324)]
 
 ## Rationales and Natural Language Explanations
 
