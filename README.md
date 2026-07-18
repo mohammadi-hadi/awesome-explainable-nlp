@@ -54,6 +54,7 @@ Companion list to the survey [Explainability in Practice: A Survey of Explainabl
 - **Attention is not Explanation** — Jain & Wallace, NAACL 2019. [[paper](https://arxiv.org/abs/1902.10186)]
 - **Attention is not not Explanation** — Wiegreffe & Pinter, EMNLP 2019. [[paper](https://arxiv.org/abs/1908.04626)]
 - **Is Attention Interpretable?** — Serrano & Smith, ACL 2019. [[paper](https://arxiv.org/abs/1906.03731)]
+- **What Does BERT Look At? An Analysis of BERT's Attention** — Clark et al., BlackboxNLP 2019. [[paper](https://arxiv.org/abs/1906.04341)]
 
 ## Probing and Representations
 
