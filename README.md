@@ -107,6 +107,7 @@ Companion list to the survey [Explainability in Practice: A Survey of Explainabl
 - **Language Models Don't Always Say What They Think: Unfaithful Explanations in Chain-of-Thought Prompting** — Turpin et al., NeurIPS 2023. [[paper](https://arxiv.org/abs/2305.04388)]
 - **Measuring Faithfulness in Chain-of-Thought Reasoning** — Lanham et al., 2023. [[paper](https://arxiv.org/abs/2307.13702)]
 - **Question Decomposition Improves the Faithfulness of Model-Generated Reasoning** — Radhakrishnan et al., 2023. [[paper](https://arxiv.org/abs/2307.11768)]
+- **Faithful Chain-of-Thought Reasoning** — Lyu et al., IJCNLP-AACL 2023. [[paper](https://arxiv.org/abs/2301.13379)]
 
 ## Mechanistic Interpretability
 
