@@ -142,6 +142,7 @@ Companion list to the survey [Explainability in Practice: A Survey of Explainabl
 ## Training Data Attribution
 
 - **Understanding Black-box Predictions via Influence Functions** — Koh & Liang, ICML 2017. [[paper](https://arxiv.org/abs/1703.04730)]
+- **Estimating Training Data Influence by Tracing Gradient Descent (TracIn)** — Pruthi et al., NeurIPS 2020. [[paper](https://arxiv.org/abs/2002.08484)]
 
 ## Concept-Based Explanations
 
