@@ -19,6 +19,8 @@ Companion list to the survey [Explainability in Practice: A Survey of Explainabl
 - [Faithfulness and Evaluation](#faithfulness-and-evaluation)
 - [Reasoning and Chain-of-Thought Faithfulness](#reasoning-and-chain-of-thought-faithfulness)
 - [Mechanistic Interpretability](#mechanistic-interpretability)
+- [Training Data Attribution](#training-data-attribution)
+- [Concept-Based Explanations](#concept-based-explanations)
 - [Datasets and Benchmarks](#datasets-and-benchmarks)
 - [Tools and Libraries](#tools-and-libraries)
 
@@ -125,6 +127,10 @@ Companion list to the survey [Explainability in Practice: A Survey of Explainabl
 - **Eliciting Latent Predictions from Transformers with the Tuned Lens** — Belrose et al., 2023. [[paper](https://arxiv.org/abs/2303.08112)]
 - **Representation Engineering: A Top-Down Approach to AI Transparency** — Zou et al., 2023. [[paper](https://arxiv.org/abs/2310.01405)]
 - **Inference-Time Intervention: Eliciting Truthful Answers from a Language Model** — Li et al., NeurIPS 2023. [[paper](https://arxiv.org/abs/2306.03341)]
+
+## Training Data Attribution
+
+## Concept-Based Explanations
 
 ## Datasets and Benchmarks
 
