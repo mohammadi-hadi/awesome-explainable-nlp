@@ -140,6 +140,7 @@ Companion list to the survey [Explainability in Practice: A Survey of Explainabl
 - [BertViz](https://github.com/jessevig/bertviz) — interactive attention visualization for transformer models
 - [Ecco](https://github.com/jalammar/ecco) — explorable explanations for transformer language models
 - [Language Interpretability Tool (LIT)](https://github.com/PAIR-code/lit) — visual, interactive model-understanding workbench for NLP
+- **AllenNLP Interpret: A Framework for Explaining Predictions of NLP Models** — Wallace et al., EMNLP 2019 demo. [[paper](https://arxiv.org/abs/1909.09251)]
 
 ## Contributing
 
