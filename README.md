@@ -182,6 +182,7 @@ Companion list to the survey [Explainability in Practice: A Survey of Explainabl
 - **AllenNLP Interpret: A Framework for Explaining Predictions of NLP Models** — Wallace et al., EMNLP 2019 demo. [[paper](https://arxiv.org/abs/1909.09251)]
 - [InterpretML](https://github.com/interpretml/interpret) — glassbox models and blackbox explainers in one package
 - [SAELens](https://github.com/jbloomAus/SAELens) — training and analysis of sparse autoencoders for language models
+- [nnsight](https://github.com/ndif-team/nnsight) — interpret and manipulate the internals of deep models
 
 ## Contributing
 
