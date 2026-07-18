@@ -87,6 +87,7 @@ Companion list to the survey [Explainability in Practice: A Survey of Explainabl
 - **Explain Yourself! Leveraging Language Models for Commonsense Reasoning** — Rajani et al., ACL 2019. [[paper](https://arxiv.org/abs/1906.02361)]
 - **Learning to Faithfully Rationalize by Construction** — Jain et al., ACL 2020. [[paper](https://arxiv.org/abs/2005.00115)]
 - **WT5?! Training Text-to-Text Models to Explain their Predictions** — Narang et al., 2020. [[paper](https://arxiv.org/abs/2004.14546)]
+- **Measuring Association Between Labels and Free-Text Rationales** — Wiegreffe et al., EMNLP 2021. [[paper](https://arxiv.org/abs/2010.12762)]
 
 ## Faithfulness and Evaluation
 
