@@ -183,6 +183,7 @@ Companion list to the survey [Explainability in Practice: A Survey of Explainabl
 - [InterpretML](https://github.com/interpretml/interpret) — glassbox models and blackbox explainers in one package
 - [SAELens](https://github.com/jbloomAus/SAELens) — training and analysis of sparse autoencoders for language models
 - [nnsight](https://github.com/ndif-team/nnsight) — interpret and manipulate the internals of deep models
+- [Alibi](https://github.com/SeldonIO/alibi) — production-oriented explainers (anchors, contrastive, counterfactual)
 
 ## Contributing
 
