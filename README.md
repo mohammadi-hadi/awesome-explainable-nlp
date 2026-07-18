@@ -144,6 +144,7 @@ Companion list to the survey [Explainability in Practice: A Survey of Explainabl
 - **Understanding Black-box Predictions via Influence Functions** — Koh & Liang, ICML 2017. [[paper](https://arxiv.org/abs/1703.04730)]
 - **Estimating Training Data Influence by Tracing Gradient Descent (TracIn)** — Pruthi et al., NeurIPS 2020. [[paper](https://arxiv.org/abs/2002.08484)]
 - **Studying Large Language Model Generalization with Influence Functions** — Grosse et al., 2023. [[paper](https://arxiv.org/abs/2308.03296)]
+- **Data Shapley: Equitable Valuation of Data for Machine Learning** — Ghorbani & Zou, ICML 2019. [[paper](https://arxiv.org/abs/1904.02868)]
 
 ## Concept-Based Explanations
 
