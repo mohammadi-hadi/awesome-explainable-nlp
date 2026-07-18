@@ -27,6 +27,7 @@ Companion list to the survey [Explainability in Practice: A Survey of Explainabl
 - **The Mythos of Model Interpretability** — Lipton, 2016. [[paper](https://arxiv.org/abs/1606.03490)]
 - **Towards a Rigorous Science of Interpretable Machine Learning** — Doshi-Velez & Kim, 2017. [[paper](https://arxiv.org/abs/1702.08608)]
 - **Explanation in Artificial Intelligence: Insights from the Social Sciences** — Miller, Artificial Intelligence 2019. [[paper](https://arxiv.org/abs/1706.07269)]
+- **Stop Explaining Black Box Machine Learning Models for High Stakes Decisions and Use Interpretable Models Instead** — Rudin, Nature Machine Intelligence 2019. [[paper](https://arxiv.org/abs/1811.10154)]
 
 ## Feature Attribution
 
