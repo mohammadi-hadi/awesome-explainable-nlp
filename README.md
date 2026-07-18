@@ -2,6 +2,8 @@
 
 # Awesome Explainable NLP
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 *A curated list of papers, tools, and resources on explainability and interpretability for NLP and large language models.*
 
 Companion list to the survey [Explainability in Practice: A Survey of Explainable NLP Across Various Domains](https://github.com/mohammadi-hadi/xnlp-survey).
