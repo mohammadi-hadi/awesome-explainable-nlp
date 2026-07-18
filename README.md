@@ -64,6 +64,7 @@ Companion list to the survey [Explainability in Practice: A Survey of Explainabl
 - **A Structural Probe for Finding Syntax in Word Representations** — Hewitt & Manning, NAACL 2019. [[paper](https://aclanthology.org/N19-1419/)]
 - **Designing and Interpreting Probes with Control Tasks** — Hewitt & Liang, EMNLP 2019. [[paper](https://arxiv.org/abs/1909.03368)]
 - **BERT Rediscovers the Classical NLP Pipeline** — Tenney et al., ACL 2019. [[paper](https://arxiv.org/abs/1905.05950)]
+- **What do you learn from context? Probing for sentence structure in contextualized word representations** — Tenney et al., ICLR 2019. [[paper](https://arxiv.org/abs/1905.06316)]
 
 ## Counterfactuals and Behavioral Testing
 
