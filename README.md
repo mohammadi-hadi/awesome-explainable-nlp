@@ -146,6 +146,7 @@ Companion list to the survey [Explainability in Practice: A Survey of Explainabl
 - **Gemma Scope: Open Sparse Autoencoders Everywhere All At Once on Gemma 2** — Lieberum et al., 2024. [[paper](https://arxiv.org/abs/2408.05147)]
 - **Refusal in Language Models Is Mediated by a Single Direction** — Arditi et al., NeurIPS 2024. [[paper](https://arxiv.org/abs/2406.11717)]
 - **Language models can explain neurons in language models** — Bills et al., OpenAI 2023. [[paper](https://openaipublic.blob.core.windows.net/neuron-explainer/paper/index.html)]
+- **Explaining black box text modules in natural language with language models** — Singh et al., 2023. [[paper](https://arxiv.org/abs/2305.09863)]
 
 ## Training Data Attribution
 
