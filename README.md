@@ -150,6 +150,8 @@ Companion list to the survey [Explainability in Practice: A Survey of Explainabl
 
 ## Concept-Based Explanations
 
+- **Interpretability Beyond Feature Attribution: Quantitative Testing with Concept Activation Vectors (TCAV)** — Kim et al., ICML 2018. [[paper](https://arxiv.org/abs/1711.11279)]
+
 ## Datasets and Benchmarks
 
 - **ERASER: A Benchmark to Evaluate Rationalized NLP Models** — DeYoung et al., ACL 2020. [[paper](https://arxiv.org/abs/1911.03429)]
