@@ -29,6 +29,7 @@ Companion list to the survey [Explainability in Practice: A Survey of Explainabl
 - **Explanation in Artificial Intelligence: Insights from the Social Sciences** — Miller, Artificial Intelligence 2019. [[paper](https://arxiv.org/abs/1706.07269)]
 - **Stop Explaining Black Box Machine Learning Models for High Stakes Decisions and Use Interpretable Models Instead** — Rudin, Nature Machine Intelligence 2019. [[paper](https://arxiv.org/abs/1811.10154)]
 - **A Survey of the State of Explainable AI for Natural Language Processing** — Danilevsky et al., AACL 2020. [[paper](https://arxiv.org/abs/2010.00711)]
+- **Post-hoc Interpretability for Neural NLP: A Survey** — Madsen et al., ACM Computing Surveys 2022. [[paper](https://arxiv.org/abs/2108.04840)]
 
 ## Feature Attribution
 
