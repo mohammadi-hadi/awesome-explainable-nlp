@@ -139,6 +139,7 @@ Companion list to the survey [Explainability in Practice: A Survey of Explainabl
 - [lime](https://github.com/marcotcr/lime) — local surrogate explanations for classifiers
 - [BertViz](https://github.com/jessevig/bertviz) — interactive attention visualization for transformer models
 - [Ecco](https://github.com/jalammar/ecco) — explorable explanations for transformer language models
+- [Language Interpretability Tool (LIT)](https://github.com/PAIR-code/lit) — visual, interactive model-understanding workbench for NLP
 
 ## Contributing
 
