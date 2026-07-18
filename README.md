@@ -104,6 +104,7 @@ Companion list to the survey [Explainability in Practice: A Survey of Explainabl
 - **Chain-of-Thought Prompting Elicits Reasoning in Large Language Models** — Wei et al., NeurIPS 2022. [[paper](https://arxiv.org/abs/2201.11903)]
 - **Self-Consistency Improves Chain of Thought Reasoning in Language Models** — Wang et al., ICLR 2023. [[paper](https://arxiv.org/abs/2203.11171)]
 - **Show Your Work: Scratchpads for Intermediate Computation with Language Models** — Nye et al., 2021. [[paper](https://arxiv.org/abs/2112.00114)]
+- **Language Models Don't Always Say What They Think: Unfaithful Explanations in Chain-of-Thought Prompting** — Turpin et al., NeurIPS 2023. [[paper](https://arxiv.org/abs/2305.04388)]
 
 ## Mechanistic Interpretability
 
