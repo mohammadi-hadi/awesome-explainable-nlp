@@ -43,6 +43,7 @@ Companion list to the survey [Explainability in Practice: A Survey of Explainabl
 - **Learning Important Features Through Propagating Activation Differences (DeepLIFT)** — Shrikumar et al., ICML 2017. [[paper](https://arxiv.org/abs/1704.02685)]
 - **Anchors: High-Precision Model-Agnostic Explanations** — Ribeiro et al., AAAI 2018.
 - **Visualizing and Understanding Neural Models in NLP** — Li et al., NAACL 2016. [[paper](https://arxiv.org/abs/1506.01066)]
+- **Understanding Neural Networks through Representation Erasure** — Li et al., 2016. [[paper](https://arxiv.org/abs/1612.08220)]
 
 ## Attention Analysis
 
