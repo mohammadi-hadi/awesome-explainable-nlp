@@ -95,6 +95,7 @@ Companion list to the survey [Explainability in Practice: A Survey of Explainabl
 - **Towards Faithfully Interpretable NLP Systems: How Should We Define and Evaluate Faithfulness?** — Jacovi & Goldberg, ACL 2020. [[paper](https://arxiv.org/abs/2004.03685)]
 - **Aligning Faithful Interpretations with their Social Attribution** — Jacovi & Goldberg, TACL 2021. [[paper](https://arxiv.org/abs/2006.01067)]
 - **Evaluating Explainable AI: Which Algorithmic Explanations Help Users Predict Model Behavior?** — Hase & Bansal, ACL 2020. [[paper](https://arxiv.org/abs/2005.01831)]
+- **A Benchmark for Interpretability Methods in Deep Neural Networks (ROAR)** — Hooker et al., NeurIPS 2019. [[paper](https://arxiv.org/abs/1806.10758)]
 
 ## Reasoning and Chain-of-Thought Faithfulness
 
