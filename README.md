@@ -166,6 +166,7 @@ Companion list to the survey [Explainability in Practice: A Survey of Explainabl
 - **Steering Llama 2 via Contrastive Activation Addition** — Rimsky et al., ACL 2024. [[paper](https://arxiv.org/abs/2312.06681)]
 - **Sparse Feature Circuits: Discovering and Editing Interpretable Causal Graphs in Language Models** — Marks et al., ICLR 2025. [[paper](https://arxiv.org/abs/2403.19647)]
 - **Not All Language Model Features Are One-Dimensionally Linear** — Engels et al., ICLR 2025. [[paper](https://arxiv.org/abs/2405.14860)]
+- **Circuit Tracing: Revealing Computational Graphs in Language Models** — Ameisen et al., 2025. [[paper](https://transformer-circuits.pub/2025/attribution-graphs/methods.html)]
 
 ## Training Data Attribution
 
