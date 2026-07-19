@@ -3,6 +3,8 @@
 # Awesome Explainable NLP
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Links](https://github.com/mohammadi-hadi/awesome-explainable-nlp/actions/workflows/links.yml/badge.svg)](https://github.com/mohammadi-hadi/awesome-explainable-nlp/actions/workflows/links.yml)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
 *A curated list of papers, tools, and resources on explainability and interpretability for NLP and large language models.*
 
