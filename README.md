@@ -163,6 +163,7 @@ Companion list to the survey [Explainability in Practice: A Survey of Explainabl
 - **In-Context Learning Creates Task Vectors** — Hendel et al., Findings of EMNLP 2023. [[paper](https://arxiv.org/abs/2310.15916)]
 - **Does Localization Inform Editing? Surprising Differences in Causality-Based Localization vs. Knowledge Editing** — Hase et al., NeurIPS 2023. [[paper](https://arxiv.org/abs/2301.04213)]
 - **Towards Best Practices of Activation Patching in Language Models: Metrics and Methods** — Zhang and Nanda, ICLR 2024. [[paper](https://arxiv.org/abs/2309.16042)]
+- **Steering Llama 2 via Contrastive Activation Addition** — Rimsky et al., ACL 2024. [[paper](https://arxiv.org/abs/2312.06681)]
 
 ## Training Data Attribution
 
