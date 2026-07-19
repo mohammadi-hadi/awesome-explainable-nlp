@@ -45,6 +45,7 @@ Companion list to the survey [Explainability in Practice: A Survey of Explainabl
 - **Interpretable machine learning: definitions, methods, and applications** — Murdoch et al., PNAS 2019. [[paper](https://arxiv.org/abs/1901.04592)]
 - **From Anecdotal Evidence to Quantitative Evaluation Methods: A Systematic Review on Evaluating Explainable AI** — Nauta et al., ACM Computing Surveys 2023. [[paper](https://arxiv.org/abs/2201.08164)]
 - **Explaining Explanations: An Overview of Interpretability of Machine Learning** — Gilpin et al., DSAA 2018. [[paper](https://arxiv.org/abs/1806.00069)]
+- **The Urgency of Interpretability** — Amodei, 2025. [[essay](https://www.darioamodei.com/post/the-urgency-of-interpretability)]
 
 ## Feature Attribution
 
