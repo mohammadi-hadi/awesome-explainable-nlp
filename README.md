@@ -128,6 +128,7 @@ Companion list to the survey [Explainability in Practice: A Survey of Explainabl
 - **Tree of Thoughts: Deliberate Problem Solving with Large Language Models** — Yao et al., NeurIPS 2023. [[paper](https://arxiv.org/abs/2305.10601)]
 - **Large Language Models Cannot Self-Correct Reasoning Yet** — Huang et al., ICLR 2024. [[paper](https://arxiv.org/abs/2310.01798)]
 - **Reasoning Models Don't Always Say What They Think** — Chen et al., 2025. [[paper](https://arxiv.org/abs/2505.05410)]
+- **STaR: Bootstrapping Reasoning With Reasoning** — Zelikman et al., NeurIPS 2022. [[paper](https://arxiv.org/abs/2203.14465)]
 
 ## Mechanistic Interpretability
 
