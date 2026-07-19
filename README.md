@@ -202,6 +202,7 @@ Companion list to the survey [Explainability in Practice: A Survey of Explainabl
 - [ELI5](https://github.com/TeamHG-Memex/eli5) — classic inspection library for scikit-learn era NLP models
 - [Quantus](https://github.com/understandable-machine-intelligence-lab/Quantus) — metrics toolkit for evaluating explanation quality
 - [TransformerLens](https://github.com/TransformerLensOrg/TransformerLens) — the standard library for mechanistic interpretability of GPT-style language models
+- [Neuronpedia](https://www.neuronpedia.org/) — open platform for exploring sparse-autoencoder features in language models
 
 ## Tutorials and Courses
 
