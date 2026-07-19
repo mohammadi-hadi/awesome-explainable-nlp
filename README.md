@@ -194,6 +194,7 @@ Companion list to the survey [Explainability in Practice: A Survey of Explainabl
 - **ERASER: A Benchmark to Evaluate Rationalized NLP Models** — DeYoung et al., ACL 2020. [[paper](https://arxiv.org/abs/1911.03429)]
 - **HateXplain: A Benchmark Dataset for Explainable Hate Speech Detection** — Mathew et al., AAAI 2021. [[paper](https://arxiv.org/abs/2012.10289)]
 - **SemEval-2023 Task 10: Explainable Detection of Online Sexism** — Kirk et al., SemEval 2023. [[paper](https://arxiv.org/abs/2303.04222)]
+- **MIB: A Mechanistic Interpretability Benchmark** — Mueller et al., ICML 2025. [[paper](https://arxiv.org/abs/2504.13151)]
 
 ## Tools and Libraries
 
