@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If this list is useful in your research, please cite it as below."
+title: "Awesome Explainable NLP"
+type: software
+authors:
+  - family-names: Mohammadi
+    given-names: Hadi
+    orcid: "https://orcid.org/0000-0003-0860-9200"
+    affiliation: "Utrecht University"
+license: MIT
+repository-code: "https://github.com/mohammadi-hadi/awesome-explainable-nlp"
+abstract: "A curated list of papers, tools, datasets, tutorials, and venues on explainability and interpretability for NLP and large language models."
+version: 1.0.0
+date-released: "2026-07-19"
