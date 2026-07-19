@@ -41,6 +41,7 @@ Companion list to the survey [Explainability in Practice: A Survey of Explainabl
 - **Teach Me to Explain: A Review of Datasets for Explainable NLP** — Wiegreffe & Marasović, NeurIPS Datasets and Benchmarks 2021. [[paper](https://arxiv.org/abs/2102.12060)]
 - **Explainability for Large Language Models: A Survey** — Zhao et al., ACM TIST 2024. [[paper](https://arxiv.org/abs/2309.01029)]
 - **Rethinking Interpretability in the Era of Large Language Models** — Singh et al., 2024. [[paper](https://arxiv.org/abs/2402.01761)]
+- **A Primer on the Inner Workings of Transformer-based Language Models** — Ferrando et al., 2024. [[paper](https://arxiv.org/abs/2405.00208)]
 - **A Primer in BERTology: What We Know About How BERT Works** — Rogers et al., TACL 2020. [[paper](https://arxiv.org/abs/2002.12327)]
 - **Interpretable machine learning: definitions, methods, and applications** — Murdoch et al., PNAS 2019. [[paper](https://arxiv.org/abs/1901.04592)]
 - **From Anecdotal Evidence to Quantitative Evaluation Methods: A Systematic Review on Evaluating Explainable AI** — Nauta et al., ACM Computing Surveys 2023. [[paper](https://arxiv.org/abs/2201.08164)]
