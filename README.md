@@ -157,6 +157,7 @@ Companion list to the survey [Explainability in Practice: A Survey of Explainabl
 - **On the Biology of a Large Language Model** — Lindsey et al., 2025. [[paper](https://transformer-circuits.pub/2025/attribution-graphs/biology.html)]
 - **Function Vectors in Large Language Models** — Todd et al., ICLR 2024. [[paper](https://arxiv.org/abs/2310.15213)]
 - **In-Context Learning Creates Task Vectors** — Hendel et al., Findings of EMNLP 2023. [[paper](https://arxiv.org/abs/2310.15916)]
+- **Does Localization Inform Editing? Surprising Differences in Causality-Based Localization vs. Knowledge Editing** — Hase et al., NeurIPS 2023. [[paper](https://arxiv.org/abs/2301.04213)]
 
 ## Training Data Attribution
 
