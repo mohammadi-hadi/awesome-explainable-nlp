@@ -85,6 +85,7 @@ Companion list to the survey [Explainability in Practice: A Survey of Explainabl
 - **Probing Classifiers: Promises, Shortcomings, and Advances** — Belinkov, Computational Linguistics 2022. [[paper](https://arxiv.org/abs/2102.12452)]
 - **Language Models as Knowledge Bases?** — Petroni et al., EMNLP 2019. [[paper](https://arxiv.org/abs/1909.01066)]
 - **How Can We Know What Language Models Know?** — Jiang et al., TACL 2020. [[paper](https://arxiv.org/abs/1911.12543)]
+- **Patchscopes: A Unifying Framework for Inspecting Hidden Representations of Language Models** — Ghandeharioun et al., ICML 2024. [[paper](https://arxiv.org/abs/2401.06102)]
 
 ## Counterfactuals and Behavioral Testing
 
