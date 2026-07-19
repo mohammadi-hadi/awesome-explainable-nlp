@@ -156,6 +156,7 @@ Companion list to the survey [Explainability in Practice: A Survey of Explainabl
 - **Explaining black box text modules in natural language with language models** — Singh et al., 2023. [[paper](https://arxiv.org/abs/2305.09863)]
 - **On the Biology of a Large Language Model** — Lindsey et al., 2025. [[paper](https://transformer-circuits.pub/2025/attribution-graphs/biology.html)]
 - **Function Vectors in Large Language Models** — Todd et al., ICLR 2024. [[paper](https://arxiv.org/abs/2310.15213)]
+- **In-Context Learning Creates Task Vectors** — Hendel et al., Findings of EMNLP 2023. [[paper](https://arxiv.org/abs/2310.15916)]
 
 ## Training Data Attribution
 
