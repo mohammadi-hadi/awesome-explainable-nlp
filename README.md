@@ -56,6 +56,7 @@ Companion list to the survey [Explainability in Practice: A Survey of Explainabl
 - **Sanity Checks for Saliency Maps** — Adebayo et al., NeurIPS 2018. [[paper](https://arxiv.org/abs/1810.03292)]
 - **The (Un)reliability of Saliency Methods** — Kindermans et al., 2017. [[paper](https://arxiv.org/abs/1711.00867)]
 - **Self-Attention Attribution: Interpreting Information Interactions Inside Transformer** — Hao et al., AAAI 2021. [[paper](https://arxiv.org/abs/2004.11207)]
+- **SmoothGrad: removing noise by adding noise** — Smilkov et al., 2017. [[paper](https://arxiv.org/abs/1706.03825)]
 
 ## Attention Analysis
 
