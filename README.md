@@ -201,6 +201,7 @@ Companion list to the survey [Explainability in Practice: A Survey of Explainabl
 - [Alibi](https://github.com/SeldonIO/alibi) — production-oriented explainers (anchors, contrastive, counterfactual)
 - [ELI5](https://github.com/TeamHG-Memex/eli5) — classic inspection library for scikit-learn era NLP models
 - [Quantus](https://github.com/understandable-machine-intelligence-lab/Quantus) — metrics toolkit for evaluating explanation quality
+- [TransformerLens](https://github.com/TransformerLensOrg/TransformerLens) — the standard library for mechanistic interpretability of GPT-style language models
 
 ## Tutorials and Courses
 
