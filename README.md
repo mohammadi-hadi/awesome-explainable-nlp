@@ -25,6 +25,8 @@ Companion list to the survey [Explainability in Practice: A Survey of Explainabl
 - [Concept-Based Explanations](#concept-based-explanations)
 - [Datasets and Benchmarks](#datasets-and-benchmarks)
 - [Tools and Libraries](#tools-and-libraries)
+- [Tutorials and Courses](#tutorials-and-courses)
+- [Workshops and Venues](#workshops-and-venues)
 
 ## Surveys and Position Papers
 
@@ -198,9 +200,31 @@ Companion list to the survey [Explainability in Practice: A Survey of Explainabl
 - [ELI5](https://github.com/TeamHG-Memex/eli5) — classic inspection library for scikit-learn era NLP models
 - [Quantus](https://github.com/understandable-machine-intelligence-lab/Quantus) — metrics toolkit for evaluating explanation quality
 
+## Tutorials and Courses
+
+- **Interpreting Predictions of NLP Models** — Wallace, Gardner & Singh, EMNLP 2020 tutorial. [[materials](https://github.com/Eric-Wallace/interpretability-tutorial-emnlp2020)]
+- **Interpretable Machine Learning** — Molnar, online book. [[book](https://christophm.github.io/interpretable-ml-book/)]
+- **Interfaces for Explaining Transformer Language Models** — Alammar, 2020. [[post](https://jalammar.github.io/explaining-transformers/)]
+- **ARENA: Transformer Interpretability Curriculum** — McDougall et al. [[course](https://github.com/callummcdougall/ARENA_3.0)]
+- **A Comprehensive Mechanistic Interpretability Explainer and Glossary** — Nanda. [[glossary](https://www.neelnanda.io/mechanistic-interpretability/glossary)]
+- **200 Concrete Open Problems in Mechanistic Interpretability** — Nanda, 2022. [[post](https://www.alignmentforum.org/posts/LbrPTJ4fmABEdEnLf/200-concrete-open-problems-in-mechanistic-interpretability)]
+
+## Workshops and Venues
+
+- **BlackboxNLP** — annual workshop on analyzing and interpreting neural networks for NLP, co-located with EMNLP. [[site](https://blackboxnlp.github.io/)]
+- **TrustNLP** — workshop on trustworthy natural language processing. [[site](https://trustnlpworkshop.github.io/)]
+- **Actionable Interpretability** — ICML workshop on putting interpretability findings to use. [[site](https://actionable-interpretability.github.io/)]
+- **World Conference on eXplainable Artificial Intelligence** — annual conference dedicated to XAI. [[site](https://xaiworldconference.com/)]
+- **Transformer Circuits Thread** — ongoing publication venue for mechanistic interpretability research. [[site](https://transformer-circuits.pub/)]
+- **InDeep** — Dutch NWO consortium project on interpreting deep learning models for text and sound. [[site](https://projects.illc.uva.nl/indeep/)]
+
 ## Contributing
 
-Additions are welcome — one resource per pull request, with a link and a one-line description of why it belongs here.
+Contributions are welcome. Please read the [contributing guide](CONTRIBUTING.md) first.
+
+- Suggest a paper or tool with the [entry template](https://github.com/mohammadi-hadi/awesome-explainable-nlp/issues/new/choose), or open a pull request directly.
+- Report dead or moved links with the broken-link template.
+- Ideas for new sections are tracked in the [roadmap](ROADMAP.md) and in [discussions](https://github.com/mohammadi-hadi/awesome-explainable-nlp/discussions).
 
 ## Maintainer
 
