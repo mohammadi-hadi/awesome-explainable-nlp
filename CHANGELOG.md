@@ -2,7 +2,7 @@
 
 Notable changes to this list.
 
-## [Unreleased]
+## [1.1.0] — 2026-07-19
 
 ### Added
 
