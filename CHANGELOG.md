@@ -2,6 +2,12 @@
 
 Notable changes to this list.
 
+## [Unreleased]
+
+### Added
+
+- 14 entries (list now at 159): TransformerLens, Neuronpedia, pyvene, Inseq, activation-patching best practices, Contrastive Activation Addition, Sparse Feature Circuits, Not All Language Model Features Are One-Dimensionally Linear, Circuit Tracing, Patchscopes, Do Llamas Work in English?, SelfIE, The Urgency of Interpretability, and the MIB benchmark
+
 ## [1.0.0] — 2026-07-19
 
 ### Added
