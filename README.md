@@ -86,6 +86,7 @@ Companion list to the survey [Explainability in Practice: A Survey of Explainabl
 - **Language Models as Knowledge Bases?** — Petroni et al., EMNLP 2019. [[paper](https://arxiv.org/abs/1909.01066)]
 - **How Can We Know What Language Models Know?** — Jiang et al., TACL 2020. [[paper](https://arxiv.org/abs/1911.12543)]
 - **Patchscopes: A Unifying Framework for Inspecting Hidden Representations of Language Models** — Ghandeharioun et al., ICML 2024. [[paper](https://arxiv.org/abs/2401.06102)]
+- **Do Llamas Work in English? On the Latent Language of Multilingual Transformers** — Wendler et al., ACL 2024. [[paper](https://arxiv.org/abs/2402.10588)]
 
 ## Counterfactuals and Behavioral Testing
 
