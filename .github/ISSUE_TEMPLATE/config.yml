@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Questions and ideas
+    url: https://github.com/mohammadi-hadi/awesome-explainable-nlp/discussions
+    about: Ask questions or float ideas for new sections in Discussions

@@ -1,0 +1,22 @@
+name: Report a broken link
+description: An entry's link is dead, moved, or points somewhere unexpected
+title: "[Broken link] "
+labels: ["broken link"]
+body:
+  - type: input
+    id: entry
+    attributes:
+      label: Entry
+      description: Title of the affected entry as it appears in the README
+    validations:
+      required: true
+  - type: input
+    id: current
+    attributes:
+      label: Current link
+    validations:
+      required: true
+  - type: input
+    id: replacement
+    attributes:
+      label: Suggested replacement (if known)

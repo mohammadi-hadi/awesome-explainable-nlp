@@ -1,0 +1,54 @@
+name: Suggest an entry
+description: Propose a paper, tool, dataset, tutorial, or venue for the list
+title: "[Entry] "
+labels: ["entry suggestion"]
+body:
+  - type: input
+    id: entry-title
+    attributes:
+      label: Title
+      description: Exact title of the paper or resource
+    validations:
+      required: true
+  - type: input
+    id: link
+    attributes:
+      label: Link
+      description: Stable public URL (arXiv, ACL Anthology, GitHub, project site)
+    validations:
+      required: true
+  - type: input
+    id: meta
+    attributes:
+      label: Authors and venue
+      placeholder: "e.g. Ribeiro et al., KDD 2016"
+  - type: dropdown
+    id: section
+    attributes:
+      label: Section
+      options:
+        - Surveys and Position Papers
+        - Feature Attribution
+        - Attention Analysis
+        - Probing and Representations
+        - Counterfactuals and Behavioral Testing
+        - Rationales and Natural Language Explanations
+        - Faithfulness and Evaluation
+        - Reasoning and Chain-of-Thought Faithfulness
+        - Mechanistic Interpretability
+        - Training Data Attribution
+        - Concept-Based Explanations
+        - Datasets and Benchmarks
+        - Tools and Libraries
+        - Tutorials and Courses
+        - Workshops and Venues
+        - New section (explain below)
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why it belongs here
+      description: One or two sentences on relevance or impact
+    validations:
+      required: true
