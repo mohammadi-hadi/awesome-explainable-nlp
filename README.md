@@ -204,6 +204,7 @@ Companion list to the survey [Explainability in Practice: A Survey of Explainabl
 - [TransformerLens](https://github.com/TransformerLensOrg/TransformerLens) — the standard library for mechanistic interpretability of GPT-style language models
 - [Neuronpedia](https://www.neuronpedia.org/) — open platform for exploring sparse-autoencoder features in language models
 - [pyvene](https://github.com/stanfordnlp/pyvene) — composable interventions on PyTorch model internals, from Stanford NLP
+- [Inseq](https://github.com/inseq-team/inseq) — feature attribution and analysis for sequence generation models
 
 ## Tutorials and Courses
 
