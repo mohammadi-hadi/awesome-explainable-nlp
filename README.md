@@ -54,7 +54,7 @@ Companion list to the survey [Explainability in Practice: A Survey of Explainabl
 - [A Unified Approach to Interpreting Model Predictions (SHAP)](https://arxiv.org/abs/1705.07874) - Lundberg & Lee, NeurIPS 2017.
 - [Axiomatic Attribution for Deep Networks (Integrated Gradients)](https://arxiv.org/abs/1703.01365) - Sundararajan et al., ICML 2017.
 - [Learning Important Features Through Propagating Activation Differences (DeepLIFT)](https://arxiv.org/abs/1704.02685) - Shrikumar et al., ICML 2017.
-- **Anchors: High-Precision Model-Agnostic Explanations** — Ribeiro et al., AAAI 2018.
+- [Anchors: High-Precision Model-Agnostic Explanations](https://ojs.aaai.org/index.php/AAAI/article/view/11491) - Ribeiro et al., AAAI 2018.
 - [Visualizing and Understanding Neural Models in NLP](https://arxiv.org/abs/1506.01066) - Li et al., NAACL 2016.
 - [Understanding Neural Networks through Representation Erasure](https://arxiv.org/abs/1612.08220) - Li et al., 2016.
 - [Explaining Recurrent Neural Network Predictions in Sentiment Analysis](https://arxiv.org/abs/1706.07206) - Arras et al., WASSA 2017.
