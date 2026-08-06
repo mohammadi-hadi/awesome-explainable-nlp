@@ -11,13 +11,17 @@ Thanks for helping grow this list. It aims to stay curated, not exhaustive: entr
 
 ## Entry format
 
+Every entry leads with its link, then a hyphen, then a description that
+starts with a capital and ends with a period. This is the format `awesome-lint`
+enforces, so an entry in any other shape will fail CI.
+
 Papers:
 
-    - **Title** — Authors, Venue Year. [[paper](https://...)]
+    - [Title](https://...) - Authors, Venue Year.
 
 Tools and datasets:
 
-    - [Name](https://...) — one-line description
+    - [Name](https://...) - One-line description.
 
 Keep descriptions factual and short. Prefer stable links (arXiv, ACL Anthology, DOI, project pages) over blog mirrors.
 
