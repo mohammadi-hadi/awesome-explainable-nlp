@@ -2,11 +2,7 @@
 
 # Awesome Explainable NLP
 
-[![License: MIT](https://mohammadi.cv/assets/badges/license-mit.svg)](LICENSE)
-[![Links](https://github.com/mohammadi-hadi/awesome-explainable-nlp/actions/workflows/links.yml/badge.svg)](https://github.com/mohammadi-hadi/awesome-explainable-nlp/actions/workflows/links.yml)
-[![PRs Welcome](https://mohammadi.cv/assets/badges/prs-welcome.svg)](CONTRIBUTING.md)
-
-*A curated list of papers, tools, and resources on explainability and interpretability for NLP and large language models.*
+A curated list of papers, tools, and resources on explainability and interpretability for NLP and large language models.
 
 Companion list to the survey [Explainability in Practice: A Survey of Explainable NLP Across Various Domains](https://github.com/mohammadi-hadi/xnlp-survey).
 
@@ -29,6 +25,7 @@ Companion list to the survey [Explainability in Practice: A Survey of Explainabl
 - [Tools and Libraries](#tools-and-libraries)
 - [Tutorials and Courses](#tutorials-and-courses)
 - [Workshops and Venues](#workshops-and-venues)
+- [Maintainer](#maintainer)
 
 ## Surveys and Position Papers
 
