@@ -243,3 +243,16 @@ Contributions are welcome. Please read the [contributing guide](CONTRIBUTING.md)
 ## Maintainer
 
 **Hadi Mohammadi** — [mohammadi.cv](https://mohammadi.cv)
+
+## Citation
+
+If this list is useful in your work, please cite it (see [CITATION.cff](CITATION.cff)):
+
+```bibtex
+@misc{mohammadi_awesome_explainable_nlp,
+  author = {Mohammadi, Hadi},
+  title  = {Awesome Explainable NLP},
+  year   = {2026},
+  url    = {https://github.com/mohammadi-hadi/awesome-explainable-nlp}
+}
+```
