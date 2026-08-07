@@ -10,5 +10,5 @@ authors:
 license: CC0-1.0
 repository-code: "https://github.com/mohammadi-hadi/awesome-explainable-nlp"
 abstract: "A curated list of papers, tools, datasets, tutorials, and venues on explainability and interpretability for NLP and large language models."
-version: 1.0.0
-date-released: "2026-07-19"
+version: 1.2.0
+date-released: "2026-08-07"

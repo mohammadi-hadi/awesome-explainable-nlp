@@ -1,0 +1,27 @@
+{
+  "title": "Awesome Explainable NLP",
+  "description": "A curated list of papers, tools, datasets, tutorials, and venues on explainability and interpretability for NLP and large language models.",
+  "creators": [
+    {
+      "name": "Mohammadi, Hadi",
+      "orcid": "0000-0003-0860-9200",
+      "affiliation": "Utrecht University"
+    }
+  ],
+  "license": "cc0-1.0",
+  "upload_type": "other",
+  "keywords": [
+    "explainable AI",
+    "interpretability",
+    "natural language processing",
+    "large language models",
+    "curated list"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.20091832",
+      "relation": "references",
+      "scheme": "doi"
+    }
+  ]
+}
