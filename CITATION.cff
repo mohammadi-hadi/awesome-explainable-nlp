@@ -7,6 +7,11 @@ authors:
     given-names: Hadi
     orcid: "https://orcid.org/0000-0003-0860-9200"
     affiliation: "Utrecht University"
+doi: 10.5281/zenodo.21837427
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.21837426
+    description: "DOI for all versions; resolves to the latest release"
 license: CC0-1.0
 repository-code: "https://github.com/mohammadi-hadi/awesome-explainable-nlp"
 abstract: "A curated list of papers, tools, datasets, tutorials, and venues on explainability and interpretability for NLP and large language models."

@@ -6,6 +6,7 @@ A curated list of papers, tools, and resources on explainability and interpretab
 
 Companion list to the survey [Explainability in Practice: A Survey of Explainable NLP Across Various Domains](https://github.com/mohammadi-hadi/xnlp-survey).
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21837426.svg)](https://doi.org/10.5281/zenodo.21837426)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](LICENSE)
 
 </div>
@@ -252,9 +253,11 @@ If this list is useful in your work, please cite it (see [CITATION.cff](CITATION
 
 ```bibtex
 @misc{mohammadi_awesome_explainable_nlp,
-  author = {Mohammadi, Hadi},
-  title  = {Awesome Explainable NLP},
-  year   = {2026},
-  url    = {https://github.com/mohammadi-hadi/awesome-explainable-nlp}
+  author    = {Mohammadi, Hadi},
+  title     = {Awesome Explainable NLP},
+  year      = {2026},
+  publisher = {Zenodo},
+  doi       = {10.5281/zenodo.21837426},
+  url       = {https://github.com/mohammadi-hadi/awesome-explainable-nlp}
 }
 ```
