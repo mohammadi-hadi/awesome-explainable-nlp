@@ -16,8 +16,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      # ojs.aaai.org serves fine in a browser but breaks lychee with an HTTP/2
+      # protocol error from the runner, so the Anchors paper link is skipped.
       - name: Check links
         uses: lycheeverse/lychee-action@v2
         with:
-          args: --no-progress --max-retries 3 --accept "200..204,206,403,429" README.md
+          args: --no-progress --max-retries 3 --accept "200..204,206,403,429" --exclude "ojs\.aaai\.org" README.md
           fail: true
