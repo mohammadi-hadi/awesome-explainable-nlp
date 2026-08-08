@@ -2,12 +2,12 @@
 
 # Awesome Explainable NLP
 
-A curated list of papers, tools, and resources on explainability and interpretability for NLP and large language models.
-
-Companion list to the survey [Explainability in Practice: A Survey of Explainable NLP Across Various Domains](https://github.com/mohammadi-hadi/xnlp-survey).
-
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21837426.svg)](https://doi.org/10.5281/zenodo.21837426)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](LICENSE)
+
+*A curated list of papers, tools, and resources on explainability and interpretability for NLP and large language models.*
+
+Companion list to the survey [Explainability in Practice: A Survey of Explainable NLP Across Various Domains](https://github.com/mohammadi-hadi/xnlp-survey).
 
 </div>
 
