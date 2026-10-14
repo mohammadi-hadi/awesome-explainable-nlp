@@ -157,7 +157,7 @@ Companion list to the survey [Explainability in Practice: A Survey of Explainabl
 - [Progress Measures for Grokking via Mechanistic Interpretability](https://arxiv.org/abs/2301.05217) - Nanda et al., ICLR 2023.
 - [Emergent World Representations: Exploring a Sequence Model Trained on a Synthetic Task](https://arxiv.org/abs/2210.13382) - Li et al., ICLR 2023.
 - [Language Models Represent Space and Time](https://arxiv.org/abs/2310.02207) - Gurnee & Tegmark, ICLR 2024.
-- [Activation Addition: Steering Language Models Without Optimization](https://arxiv.org/abs/2308.10248) - Turner et al., 2023.
+- [Steering Language Models With Activation Engineering](https://arxiv.org/abs/2308.10248) - Turner et al., 2023.
 - [Towards Automated Circuit Discovery for Mechanistic Interpretability](https://arxiv.org/abs/2304.14997) - Conmy et al., NeurIPS 2023.
 - [Gemma Scope: Open Sparse Autoencoders Everywhere All At Once on Gemma 2](https://arxiv.org/abs/2408.05147) - Lieberum et al., 2024.
 - [Refusal in Language Models Is Mediated by a Single Direction](https://arxiv.org/abs/2406.11717) - Arditi et al., NeurIPS 2024.
