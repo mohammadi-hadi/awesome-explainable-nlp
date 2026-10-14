@@ -199,7 +199,7 @@ Companion list to the survey [Explainability in Practice: A Survey of Explainabl
 
 ## Tools and Libraries
 
-- [Captum](https://github.com/pytorch/captum) - Model interpretability library for PyTorch (Integrated Gradients, DeepLIFT, and many more).
+- [Captum](https://github.com/meta-pytorch/captum) - Model interpretability library for PyTorch (Integrated Gradients, DeepLIFT, and many more).
 - [shap](https://github.com/shap/shap) - Game-theoretic feature attribution for any ML model.
 - [lime](https://github.com/marcotcr/lime) - Local surrogate explanations for classifiers.
 - [BertViz](https://github.com/jessevig/bertviz) - Interactive attention visualization for transformer models.
@@ -207,7 +207,7 @@ Companion list to the survey [Explainability in Practice: A Survey of Explainabl
 - [Language Interpretability Tool (LIT)](https://github.com/PAIR-code/lit) - Visual, interactive model-understanding workbench for NLP.
 - [AllenNLP Interpret: A Framework for Explaining Predictions of NLP Models](https://arxiv.org/abs/1909.09251) - Wallace et al., EMNLP 2019 demo.
 - [InterpretML](https://github.com/interpretml/interpret) - Glassbox models and blackbox explainers in one package.
-- [SAELens](https://github.com/jbloomAus/SAELens) - Training and analysis of sparse autoencoders for language models.
+- [SAELens](https://github.com/decoderesearch/SAELens) - Training and analysis of sparse autoencoders for language models.
 - [nnsight](https://github.com/ndif-team/nnsight) - Interpret and manipulate the internals of deep models.
 - [Alibi](https://github.com/SeldonIO/alibi) - Production-oriented explainers (anchors, contrastive, counterfactual).
 - [ELI5](https://github.com/TeamHG-Memex/eli5) - Classic inspection library for scikit-learn era NLP models.
@@ -222,7 +222,7 @@ Companion list to the survey [Explainability in Practice: A Survey of Explainabl
 - [Interpreting Predictions of NLP Models](https://github.com/Eric-Wallace/interpretability-tutorial-emnlp2020) - Wallace, Gardner & Singh, EMNLP 2020 tutorial.
 - [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/) - Molnar, online book.
 - [Interfaces for Explaining Transformer Language Models](https://jalammar.github.io/explaining-transformers/) - Alammar, 2020.
-- [ARENA: Transformer Interpretability Curriculum](https://github.com/callummcdougall/ARENA_3.0) - McDougall et al.
+- [ARENA: Transformer Interpretability Curriculum](https://github.com/ARENA-education/ARENA_materials) - McDougall et al.
 - [A Comprehensive Mechanistic Interpretability Explainer and Glossary](https://www.neelnanda.io/mechanistic-interpretability/glossary) - Nanda.
 - [200 Concrete Open Problems in Mechanistic Interpretability](https://www.alignmentforum.org/posts/LbrPTJ4fmABEdEnLf/200-concrete-open-problems-in-mechanistic-interpretability) - Nanda, 2022.
 
