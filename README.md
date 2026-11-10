@@ -137,6 +137,7 @@ Companion list to the survey [Explainability in Practice: A Survey of Explainabl
 - [Tree of Thoughts: Deliberate Problem Solving with Large Language Models](https://arxiv.org/abs/2305.10601) - Yao et al., NeurIPS 2023.
 - [Large Language Models Cannot Self-Correct Reasoning Yet](https://arxiv.org/abs/2310.01798) - Huang et al., ICLR 2024.
 - [Reasoning Models Don't Always Say What They Think](https://arxiv.org/abs/2505.05410) - Chen et al., 2025.
+- [Risky Business: Measuring The Faithfulness-Safety Tension](https://aclanthology.org/2026.emnlp-main.1176/) - Meier et al., EMNLP 2026.
 - [STaR: Bootstrapping Reasoning With Reasoning](https://arxiv.org/abs/2203.14465) - Zelikman et al., NeurIPS 2022.
 - [Let's Verify Step by Step](https://arxiv.org/abs/2305.20050) - Lightman et al., 2023.
 
